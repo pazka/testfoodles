@@ -12,6 +12,6 @@ def test_main_example():
     
     assert len(res) == len(expected)
 
-    for item, index in expected:
+    for item, value,index in expected:
         assert item[0] == res[index][0]
         assert item[1] == res[index][1]
