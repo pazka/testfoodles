@@ -52,7 +52,7 @@ def count_words(sentence: str, limit: int) -> List[tuple]:
         for word in words_for_count:
             if len(res) >= limit:
                 break
-            res.append((word, count))
+            res.append((word, int(count)))
 
     return res
 

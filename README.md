@@ -4,7 +4,7 @@
 
 - I learned pytest yesterday evening
 - I never had the occasion to learn tests professionally in python before (only during 6 months in 2019 with jest in nodeJs)
-- I disabled Github copilot for this challenge and did not use Chat GPT
+- I disabled Github copilot for this challenge and did not use ChatGPT
 
 ## Challenge
 
